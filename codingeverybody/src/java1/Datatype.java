@@ -1,4 +1,4 @@
-package codingeverybody;
+package java1;
 
 public class Datatype{
     public static void main(String[] args) {
