@@ -1,4 +1,4 @@
-package Programming;
+package programming;
 
 import org.opentutorials.iot.DimmingLights;
 import org.opentutorials.iot.Elevator;

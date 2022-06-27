@@ -1,4 +1,4 @@
-package Programming;
+package programming;
 
 public class Program {
 
