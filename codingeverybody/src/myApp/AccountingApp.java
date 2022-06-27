@@ -1,4 +1,4 @@
-package MyApp;
+package myApp;
 
 public class AccountingApp {
 
