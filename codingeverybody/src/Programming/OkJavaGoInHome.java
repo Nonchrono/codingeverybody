@@ -4,7 +4,6 @@ import org.opentutorials.iot.Elevator;
 import org.opentutorials.iot.Lighting;
 import org.opentutorials.iot.Security;
 
-
 public class OkJavaGoInHome {
 
 	public static void main(String[] args) {
