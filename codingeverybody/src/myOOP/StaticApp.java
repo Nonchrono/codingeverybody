@@ -1,4 +1,4 @@
-package myOpp;
+package myOOP;
 
 class Foo{
 	public static String classVar = "I class var";
